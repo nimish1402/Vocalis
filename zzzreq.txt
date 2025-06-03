@@ -1,4 +1,10 @@
 github url: https://github.com/adrianhajdin/ai_mock_interviews
 video url: https://www.youtube.com/watch?v=8GK8R77Bd7g&ab_channel=JavaScriptMastery
-time: 1:20:01  next firebase setup  
+time: 1:57:38  Interview generation page next   
 figma: https://www.figma.com/design/DI7Nl47h7eR3Sy75za6iXR/PrepWise---AI-Interview-Platform?node-id=2-2&p=f&t=Rl77S0iQjmLMZOIp-0
+
+
+AUTH det.
+
+1 firebase auth and Firestore DB (used both admin and client sdks )
+2 auth in both client side and server side
