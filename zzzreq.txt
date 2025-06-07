@@ -1,6 +1,6 @@
 github url: https://github.com/adrianhajdin/ai_mock_interviews
 video url: https://www.youtube.com/watch?v=8GK8R77Bd7g&ab_channel=JavaScriptMastery
-time: 2:11:17  Gemini setup next   
+time: 2:27:59  Vercel deploy    
 figma: https://www.figma.com/design/DI7Nl47h7eR3Sy75za6iXR/PrepWise---AI-Interview-Platform?node-id=2-2&p=f&t=Rl77S0iQjmLMZOIp-0
 
 
@@ -15,4 +15,3 @@ VOICE AGENT workflow
 2 Assitant will ask the set of predefined questions collecting the user responses 
 3 once all the questions are answeres the assistant will end the call and send the responses to the api endpoint
 4 API will feed this info to Gemini gets the responses back and store this data into firestore DB 
-5 
